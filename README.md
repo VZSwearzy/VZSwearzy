@@ -9,6 +9,7 @@
   </p>
 
   <p align="center">
+    <a href="mailto:vzswearzy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-3C096C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/VZSwearzy"><img src="https://img.shields.io/badge/GitHub-Follow%20%40VZSwearzy-240046?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
